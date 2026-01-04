@@ -1,0 +1,36 @@
+# Virtual environments
+venv/
+.venv/
+
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+
+# Models (omit all)
+models/**
+
+# Images (omit all)
+images/raw/**
+images/processed/**
+
+# Logs and temp
+*.log
+tmp/
+temp/
+*.tmp
+
+# Heavy data formats
+*.parquet
+*.feather
+*.pickle
+*.pkl
+
+# OS/filesystem
+.DS_Store
+Thumbs.db
+
+# Python builds
+build/
+dist/
+*.egg-info/

@@ -1,0 +1,16 @@
+{
+  "val_age_loss": 1.1703916788101196,
+  "val_gender_loss": 0.4345559775829315,
+  "val_age_accuracy": 0.6524999737739563,
+  "val_gender_accuracy": 0.8450000286102295,
+  "samples_train": 1600,
+  "samples_val": 400,
+  "age_classes": [
+    "child",
+    "young_adult",
+    "adult",
+    "middle_aged",
+    "senior"
+  ],
+  "timestamp": "2025-12-21T19:47:27"
+}
